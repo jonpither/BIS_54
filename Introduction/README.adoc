@@ -1,5 +1,5 @@
 # Introduction to eSENS eTendering and BIS
-:imagesdir: /assets
+
 
 This BIS is a result of work within eSENS eTendering workgroups and published as part of their specifications.
 
@@ -9,4 +9,4 @@ This BIS provides a set of specifications for implementing a business process. T
 
 *The purpose* of this document is to describe a common format for exchanging messages in a procurement procedure, to facilitate an efficient implementation and increased use of electronic tendering based on this format.
 
-image::zdokumentee-sense-sens_lang.gif
+image::asstes/zdokumentee-sense-sens_lang.gif
