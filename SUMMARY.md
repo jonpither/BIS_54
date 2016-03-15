@@ -1,8 +1,10 @@
 # Summary
 
+
 * [eSENS_BIS47](README.md)
-* [Introduction to eSENS eTendering and BIS](introduction_to_esens_etendering_and_bis/README.md)
-  * [Audience](introduction_to_esens_etendering_and_bis/audience.md)
+* [Statement of Copyright](Copyright/Statement.adoc)
+* [Introduction to eSENS eTendering and BIS](Introduction/README.md)
+  * [Audience](Introduction/audience.md)
 * [References](references.md)
 * [Document history](document_history/README.md)
   * [Revision history](document_history/revision_history.md)
