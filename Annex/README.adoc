@@ -1,0 +1,15 @@
+= Annex
+
+== Example files
+
+[source, xml]
+.Submit tender, trdm090:
+----
+include::../examples/Trdm090.xml[]
+----
+
+[source, xml]
+.Tender Receipt notification, trdm045:
+----
+include::../examples/Trdm045.xml[]
+----

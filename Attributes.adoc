@@ -1,0 +1,35 @@
+
+
+:imagesdir: ../assets
+
+:eSENS: http://www.esens.eu/[eSENS]
+
+:CENBII: http://www.cenbii.eu/[CEN BII]
+
+:PEPPOL: http://www.peppol.eu[PEPPOL]
+
+:EU_Dir_24: http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0024&from=En
+
+:EU_Dir_25: http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0025&from=EN
+
+:EIF: http://ec.europa.eu/isa/library/index_en.htm
+
+:Reg_910: http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910&from=EN
+
+:SBDH: http://www.gs1.org/docs/gs1_un-cefact_%20xml_%20profiles/CEFACT_SBDH_TS_version1.3.pdf
+
+:ASIC: https://portal.etsi.org/webapp/workprogram/Report_WorkItem.asp?WKI_ID=42455
+
+:UBL: http://docs.oasis-open.org/ubl/UBL-2.1.html
+
+:CAdES: https://en.wikipedia.org/wiki/CAdES_(computing)
+
+:Tender_xsd:  http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-Tender-2.1.xsd
+
+:Tender_Rec_xsd: http://docs.oasis-open.org/ubl/os-UBL-2.1/xsd/maindoc/UBL-TenderReceipt-2.1.xsd
+
+:BPMN: https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation[BPMN]
+
+:ISO639: http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=22109
+
+:PEPPOL_identifier: https://joinup.ec.europa.eu/svn/peppol/TransportInfrastructure/PEPPOL_Policy%20for%20use%20of%20identifiers-300.pdf

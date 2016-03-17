@@ -1,4 +1,4 @@
-# eSENS_BIS47 {#esens-bis47}
+# eSENS_BIS47
 
 
 **Business Interoperability Specification**

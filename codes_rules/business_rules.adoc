@@ -1,0 +1,89 @@
+== Business rules
+include::../attributes.adoc[]
+
+The below listed business rules are additional rules added by the {eSENS} pilot project, to ensure valid instance documents, and to ensure that identifiers needed in the {PEPPOl} Transport infrastructure are present.
+
+IMPORTANT: Additional business rules are listed in the {CENBII} documents, and these cannot be violated if the instance document is to be valid!
+
+
+.Rules for Tender (trdm090) :
+[cols="3", options="header"]
+|===
+|Rule ID
+|Rule text
+|Xpath
+
+| ESENS-T90-R001
+| A tender MUST not contain empty elements.
+|
+
+| ESENS-T90-R002
+| UBL version must be 2.1
+|cbc:UBLVersionID
+
+| ESENS-T90-R003
+| A tender MUST have a syntax identifier.
+|cbc:UBLVersionID
+
+| ESENS-T90-R004
+| SchemeID for endpoint identifier must be from PEPPOL Policy for identifiers, policy 8
+| //cbc:EndpointID//@schemeID
+
+|ESENS-T90-R005
+| An endpoint identifier MUST have a schemeID attribute
+|//cbc:EndpointID
+
+| ESENS-T90-R006
+| SchemeID for party identifier must be from PEPPOL Policy for identifiers, policy 8
+|//cac:PartyIdentification/cbc:ID/@schemeID
+
+|ESENS-T90-R007
+| A party identifier MUST have a schemeID attribute
+|//cac:PartyIdentification/cbc:ID
+
+| ESENS-T90-R008
+| Language codes must be from ISO 639-1
+| //cac:DocumentReference/cbc:LocaleCode
+
+| ESENS-T90-R009
+| List identfier for language codes must be ISO639-1, if used.
+| //cac:DocumentReference/cbc:LocaleCode/@listID
+
+|===
+
+.Rules for Tender receipt notification (trdm045) :
+[cols="3", options="header"]
+|===
+|Rule ID
+|Rule text
+|Xpath
+
+| ESENS-T45-R001
+| A tender MUST not contain empty elements.
+|
+
+| ESENS-T45-R002
+| UBL version must be 2.1
+|cbc:UBLVersionID
+
+| ESENS-T45-R003
+| A tender MUST have a syntax identifier.
+|cbc:UBLVersionID
+
+| ESENS-T45-R004
+| SchemeID for endpoint identifier must be from PEPPOL Policy for identifiers, policy 8
+| //cbc:EndpointID//@schemeID
+
+|ESENS-T45-R005
+| An endpoint identifier MUST have a schemeID attribute
+|//cbc:EndpointID
+
+| ESENS-T45-R006
+| SchemeID for party identifier must be from PEPPOL Policy for identifiers, policy 8
+|//cac:PartyIdentification/cbc:ID/@schemeID
+
+|ESENS-T45-R007
+| A party identifier MUST have a schemeID attribute
+|//cac:PartyIdentification/cbc:ID
+
+|===
