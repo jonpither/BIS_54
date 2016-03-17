@@ -1,6 +1,6 @@
-## Business process
-
-include::../attributes.adoc[]
+== Business process
+:imagesdir: ../assets
+:BPMN: https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation[BPMN]
 
 The following {BPMN} diagram shows the choreography of the business process implemented by the profile. The choreography of business collaborations defines the sequence of interactions when the profile is run within its context.
 

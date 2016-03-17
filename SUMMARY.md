@@ -1,14 +1,13 @@
 # Summary
 
 
-* [eSENS_BIS47](README.md)
+* [eSENS_BIS47](README.adoc)
 * [Statement of Copyright](Copyright/Statement.adoc)
-* [Introduction to eSENS eTendering and BIS](Introduction/README.md)
+* [Introduction to eSENS eTendering and BIS](Introduction/README.adoc)
   * [Audience](Introduction/audience.adoc)
-* [References](references.adoc)
 * [Document history]
-  * [Revision history](document_history/revision_history.md)
-  * [Contributors](document_history/contributors.md)
+  * [Revision history](document_history/revision_history.adoc)
+  * [Contributors](document_history/contributors.adoc)
 * [Principles and prerequisites](principles_and_prerequisites/README.adoc)
   * [Scope](principles_and_prerequisites/scope.adoc)
   * [Interoperability](principles_and_prerequisites/interoperability.adoc)

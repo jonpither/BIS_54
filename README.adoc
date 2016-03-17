@@ -1,0 +1,10 @@
+= eSENS Business interoperability specification 54 - Submit Tender
+:icons: font
+:toc: left
+:toclevels: 4
+:icons: font
+:imagesdir: ../assets
+:numbered:
+:eSENS: http://www.esens.eu/[eSENS]
+:CENBII: http://www.cenbii.eu/[CEN BII]
+:PEPPOL: http://www.peppol.eu[PEPPOL]

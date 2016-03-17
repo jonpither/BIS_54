@@ -1,6 +1,6 @@
-# Introduction to {eSENS} eTendering and BIS
-
-include::../attributes.adoc[]
+= Introduction to eSENS eTendering and BIS
+:imagesdir: ../assets
+:eSENS: http://www.esens.eu/[eSENS]
 
 This BIS is a result of work within {eSENS} eTendering workgroups and published as part of their specifications.
 

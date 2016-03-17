@@ -1,11 +1,12 @@
 == Profile ID
-include::../attributes.adoc[]
+:eSENS: http://www.esens.eu/[eSENS]
+:CENBII: http://www.cenbii.eu/[CEN BII]
 
 The ProfileID identifies the process that the business document is part of {eSENS} eTendering BIS uses the identification system according to {CENBII}:
 
 As an example the following process identifier is used for {CENBII} Profile 54 – Tender:
 
-ProfileID: ´urn:www.cenbii.eu:profile:bii54:ver3.0`
+ProfileID: `urn:www.cenbii.eu:profile:bii54:ver3.0`
 
 Example:
 

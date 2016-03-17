@@ -1,6 +1,6 @@
-= Annex
 
-== Example files
+[appendix]
+= Example files
 
 [source, xml]
 .Submit tender, trdm090:

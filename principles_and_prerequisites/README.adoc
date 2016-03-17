@@ -1,4 +1,6 @@
-# Principles and prerequisites
+
+
+= Principles and prerequisites
 
 include::../attributes.adoc[]
 

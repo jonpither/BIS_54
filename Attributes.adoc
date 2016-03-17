@@ -1,11 +1,9 @@
-
-
+:icons: font
+:sourcedir: /Users/Siw/BIS_54
 :imagesdir: ../assets
 
 :eSENS: http://www.esens.eu/[eSENS]
-
 :CENBII: http://www.cenbii.eu/[CEN BII]
-
 :PEPPOL: http://www.peppol.eu[PEPPOL]
 
 :EU_Dir_24: http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014L0024&from=En

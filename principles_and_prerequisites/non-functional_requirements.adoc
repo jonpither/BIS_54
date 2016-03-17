@@ -1,4 +1,6 @@
-## Non-functional requirements
+
+== Non-functional requirements
+:icons: font
 
 include::../attributes.adoc[]
 

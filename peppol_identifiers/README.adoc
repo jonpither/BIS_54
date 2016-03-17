@@ -1,5 +1,5 @@
 = PEPPOL Identifiers
-include::../attributes.adoc[]
-
+:PEPPOL_identifier: https://joinup.ec.europa.eu/svn/peppol/TransportInfrastructure/PEPPOL_Policy%20for%20use%20of%20identifiers-300.pdf
+:PEPPOL: http://www.peppol.eu[PEPPOL]
 
 {PEPPOL} has defined a {PEPPOL_identifier}[Policy for Using Identifiers] that specifies how to use identifiers in both its transport infrastructure and within the documents exchanged across that infrastructure. It also introduces principles for any identifiers used in the {PEPPOL} environment. The policies that apply to this BIS are the following:

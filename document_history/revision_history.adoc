@@ -1,0 +1,19 @@
+
+
+= Revision history
+
+[cols="5", options="header"]
+.Revision history
+|===
+| Version
+| Date
+| Author
+| Organization
+| Description
+
+| 0.1
+| 15-03-2016
+| Siw Midtgård Meckelborg
+| DIFI/Edisys
+| First draft for review
+|===

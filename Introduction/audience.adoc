@@ -1,6 +1,5 @@
-## Audience
-
-include::../attributes.adoc[]
+== Audience
+:eSENS: http://www.esens.eu/[eSENS]
 
 The audience for this document is organizations wishing to be enabled for exchanging electronic messages in a procurement procure, and/or their ICT-suppliers. These organizations may be:
 
