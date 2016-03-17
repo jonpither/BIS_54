@@ -1,4 +1,5 @@
 == Profile ID
+:icons: font
 :eSENS: http://www.esens.eu/[eSENS]
 :CENBII: http://www.cenbii.eu/[CEN BII]
 

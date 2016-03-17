@@ -5,7 +5,7 @@
 * [Statement of Copyright](Copyright/Statement.adoc)
 * [Introduction to eSENS eTendering and BIS](Introduction/README.adoc)
   * [Audience](Introduction/audience.adoc)
-* [Document history]
+* Document history
   * [Revision history](document_history/revision_history.adoc)
   * [Contributors](document_history/contributors.adoc)
 * [Principles and prerequisites](principles_and_prerequisites/README.adoc)
@@ -13,7 +13,7 @@
   * [Interoperability](principles_and_prerequisites/interoperability.adoc)
   * [Non-functional requirements](principles_and_prerequisites/non-functional_requirements.adoc)
 * [Legal agreements](legal_agreements.md)
-* [Process and typical scenarios]
+* Process and typical scenarios
   * [Business process](process/business_process.adoc)
 * [Code lists](codes_rules/README.adoc)
   * [Code lists](codes_rules/code_lists.adoc)

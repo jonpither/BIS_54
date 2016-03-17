@@ -1,6 +1,7 @@
-
 == Customization ID
-include::../attributes.adoc[]
+:icons: font
+:CENBII: http://www.cenbii.eu/[CEN BII]
+:PEPPOL: http://www.peppol.eu[PEPPOL]
 
 
 The {PEPPOL} Customization ID identifies the specification of content and rules that apply to the transaction. This BIS has required some minor additions and changes to the {CENBII} transaction. Following the {CENBII} methodology any extension must be communicated by adding an extension ID onto the Customization ID. The full syntax is:
